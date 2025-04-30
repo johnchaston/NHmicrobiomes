@@ -1,4 +1,4 @@
-code,cage,treatment,replicate,fecundity,experiment,side,bacteria,cagerep,trt,round
+vial,cage,treatment,replicate,fecundity,experiment,side,bacteria,cagerep,trt,round
 1-AX-A,1,AX,A,5,F,southwest,b2,5,b2-southwest,round1
 1-AX-B,1,AX,B,7,F,southwest,b2,5,b2-southwest,round1
 1-AX-C,1,AX,C,1,F,southwest,b2,5,b2-southwest,round1
